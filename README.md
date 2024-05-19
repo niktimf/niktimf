@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @niktimf
 - 👀 I’m interested in IT 
-- 🌱 I’m currently learning ML and DS 
+- 🌱 I’m currently learning Rust
 
 <!---
 niktimf/niktimf is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
